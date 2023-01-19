@@ -1,12 +1,9 @@
 # Gaussian Elimination
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
 1. Declare the variable and read the order of matrix n
 2. Take the coefficients of linear equations as: DO for k=1 to n....
